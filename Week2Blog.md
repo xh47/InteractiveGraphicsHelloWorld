@@ -1,6 +1,5 @@
 # Week 2 Blog Post
-## Ian Hua
-## Interactive Graphics
+## Ian Hua | Interactive Graphics
 
 ### Art Piece 1
 Joe Hamilton
