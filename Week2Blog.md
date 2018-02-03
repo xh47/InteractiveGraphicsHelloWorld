@@ -23,4 +23,4 @@ http://www.bitforms.com/hershman-2005/americas-finest
 
 What caught my eye over the rest of the exhibitions in the bitforms gallery is the perched up gun. It is a physical gun and serves no meaning unless you interact with it. Upon pulling the trigger of the M16, the “viewer’s image is superimposed with images of atrocity and war in the gun’s sight,” capturing the the horrible memories that veterans must suffer from during and after their service. This is of course a super interesting piece which further fascinated me due to the unique interaction that the exhibition requires.
 
-![America's Finest](images/americasfinest1.jpg)
+![America's Finest](images/americasfinest1.png)
