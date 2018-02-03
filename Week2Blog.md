@@ -4,9 +4,12 @@
 
 ### Art Piece 1
 Joe Hamilton
+
 Indirect Flights, 2015
+
 I was especially drawn into this piece due to its use of parallax. The juxtaposition of scrapyard material with the earth’s natural environment really brings light to the sheer amount of manmade life existing in the natural beauty of the world. Users are expected to pan throughout the “world,” visiting various architecture, natural terrain, human landscapes, and current day waste. It is very different from a normal piece as you can navigate however you want throughout the piece - the interactivity is very enjoyable as a viewer.
-(images/indirectflights1)
+
+![Indirect Flights](images/indirectflights1)
 
 
 ### Art Piece 2
